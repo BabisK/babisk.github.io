@@ -38,15 +38,15 @@ yes!
 IDApps is a curated collection of simple shell scripts to invoke commonly used (in the dev/devops world) tools through
 docker without any configuration. You want a postgres server? Here it is:
 
-```bash
-$ 
+```
+$ postgres
 postgres started on localhost, listening on port 5432, username: postgres, password: postgres
 ```
 
 Do you also need the pgadmin to view the database? Just call it:
 
-```bash
-$ 
+```
+$ pgadmin4
 pgadmin4 started at http://localhost:8080, username: user@pgadmin.org, password: pgadmin
 ```
 
