@@ -102,7 +102,7 @@ are default passwords and unencrypted endpoints everywhere. This is a developmen
 
 I will continue to add tools to this collection as I need them and improve the overall code base. I plan to keep the apps
 fairly updated too. The scripts are pretty simple, so if your favorite service is not there, feel free to copy, paste,
-modify add send me a pull request.
+modify and send me a pull request.
 
 ## How to install
 
