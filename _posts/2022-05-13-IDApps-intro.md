@@ -24,7 +24,7 @@ again, you just pull the latest version from DockerHub. Sweet!
 But this can be improved too. Each service requires some configuration, maybe some storage, mounting folders, taking
 care of permissions. I find myself on the DockerHub documentation pages for postgres and nats all the time. I don't need
 to recall for the hundredth time, where to mount persistent storage for MariaDB, I just want the database, and I want it
-now.So, I started creating scripts to do deploy these containers for me.
+now. So, I started creating scripts to deploy these containers automatically.
 
 Then I though that I cannot be the only one with this problem, surely most devs must face it. Someone must have solved it
 by providing an easy-to-use collection of such scripts. I searched but to no avail. So here are mine for anyone that wants
